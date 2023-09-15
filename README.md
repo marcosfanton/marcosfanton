@@ -1,6 +1,6 @@
 - 👋 Sou @marcosfanton, professor de filosofia na UFSM/RS.
 - 👀 Estou interessado na integração entre teorias científicas + modelos estatísticos para realizar discussões sobre justiça social.  
-- 🌱 Atualmente, estou tentando aprender R e estatística. 
+- 🌱 Atualmente, estou aprendendo R e estatística. 
 - 📫 Meu e-mail é marcos.fanton@ufsm.br
 
 <!---
